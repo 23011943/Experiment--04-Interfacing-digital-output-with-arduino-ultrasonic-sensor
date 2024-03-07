@@ -136,6 +136,8 @@ duration=pulseIn(echopin,HIGH);
 
 
 
+###SCHEMATIC VIEW:
+![Screenshot 2024-03-07 110602](https://github.com/23011943/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/149348415/15dfc180-aefb-4ee6-8604-e87c80d78ab2)
 
 
 
